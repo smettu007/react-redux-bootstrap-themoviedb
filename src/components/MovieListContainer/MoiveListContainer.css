@@ -1,0 +1,11 @@
+.show-grid > div{
+margin-bottom: 20px;
+}
+.cursor{
+    cursor:pointer;
+}
+.movieTitle{
+       white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+}
